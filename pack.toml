@@ -1,0 +1,13 @@
+name = "EnderIO Test Server"
+author = "Team-EnderIO"
+version = "1.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1e3895ec1df754e342cda175bea6e7ff23289322edd89a75af1a7023ef6aa278"
+
+[versions]
+forge = "47.1.0"
+minecraft = "1.20.1"
